@@ -1,4 +1,4 @@
-# cmsc269
+# CMSC 269: Computer Science Technologies and Internships
 
 This repository contains two powerpoints about GitHub and version control software, a manual on GitHub, a quiz, and a lab assignment. 
 
